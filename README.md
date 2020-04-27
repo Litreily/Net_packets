@@ -1,4 +1,4 @@
-# Net_packets
+# net-packets
 A database of different kinds of network packets
 
 ## NetBIOS
